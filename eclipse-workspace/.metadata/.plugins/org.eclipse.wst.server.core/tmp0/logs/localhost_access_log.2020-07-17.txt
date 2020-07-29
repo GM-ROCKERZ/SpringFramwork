@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Jul/2020:14:38:33 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:38:38 +0530] "GET /spring-crm-rest/ HTTP/1.1" 200 131
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:38:44 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:39:01 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:40:27 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:44:35 +0530] "POST /spring-crm-rest/api/customers HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:46:14 +0530] "POST /spring-crm-rest/api/customers HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:49:33 +0530] "PUT /spring-crm-rest/api/customers HTTP/1.1" 200 95
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:50:24 +0530] "PUT /spring-crm-rest/api/customers HTTP/1.1" 200 95
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:55:41 +0530] "DELETE /spring-crm-rest/api/customers HTTP/1.1" 400 101
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:56:15 +0530] "DELETE /spring-crm-rest/api/customers/7 HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:56:39 +0530] "DELETE /spring-crm-rest/api/customers/8 HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:56:58 +0530] "DELETE /spring-crm-rest/api/customers/8 HTTP/1.1" 404 88
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:14:57:21 +0530] "DELETE /spring-crm-rest/api/customers/88 HTTP/1.1" 404 89

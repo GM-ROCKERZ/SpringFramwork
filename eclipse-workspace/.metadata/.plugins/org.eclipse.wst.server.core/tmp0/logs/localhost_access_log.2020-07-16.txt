@@ -1,0 +1,4 @@
+127.0.0.1 - - [16/Jul/2020:13:42:01 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [16/Jul/2020:13:42:06 +0530] "GET /spring-crm-rest/ HTTP/1.1" 200 131
+0:0:0:0:0:0:0:1 - - [16/Jul/2020:13:42:14 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 404 746
+0:0:0:0:0:0:0:1 - - [16/Jul/2020:13:42:48 +0530] "GET /spring-crm-rest/api/customers HTTP/1.1" 404 746
